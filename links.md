@@ -4,6 +4,6 @@ This is the beginning of open source development.
 
 Links:
 
-* [Gmail](deepankarumare111@gmail.com)
+* [Github](https://github.com/DeepankarUmare)
 
-* [Facebook](www.fb.com/deepankar.umare.5)
+* [Facebook](https://www.fb.com/deepankar.umare.5)
